@@ -13,6 +13,7 @@ building_blocks = [
     'John MacCormick',
     'Fake student one',
     'Fausse etudiante deux',
+    'Matt Ferland',
 ]
 
 target_length = 1_000_000  # about 1MB will be plenty of training data
